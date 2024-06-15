@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#dummy
+dump.ipynb
+datasets/local_asvspoof19
+datasets/local_asvspoof21
+datasets/local_itw
+
+#to be published
+main.py
