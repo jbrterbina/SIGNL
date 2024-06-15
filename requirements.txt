@@ -3,7 +3,6 @@ torch_geometric==2.5.0
 librosa==0.10.1
 einops==0.7.0
 audiomentations==0.35.0
-whisper==20231117
+openai-whisper
 tqdm==4.66.2
 pandas==2.2.1
-numpy==1.26.4
