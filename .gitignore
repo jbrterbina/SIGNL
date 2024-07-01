@@ -129,6 +129,7 @@ dmypy.json
 .pyre/
 
 #dummy
+datasets/DummyDataset.py
 dump.ipynb
 datasets/local_asvspoof19
 datasets/local_asvspoof21
