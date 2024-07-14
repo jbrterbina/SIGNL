@@ -134,6 +134,10 @@ dump.ipynb
 datasets/local_asvspoof19
 datasets/local_asvspoof21
 datasets/local_itw
+models
+
+#wandb
+wandb
 
 #to be published
 main.py
